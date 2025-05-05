@@ -1,7 +1,12 @@
 ---
-glass_breaker_group:
-  - guigaspar
-  - root
+bypass_group:
+ -guigaspar
+
 freezing_dates:
-  from: 2025-05-04
-  to: 2025-05-06
+  End of the year:
+    from: 2025-12-25
+    to: 2025-12-31
+
+  Test_Usage:
+      from: 2025-05-03
+      to: 2025-05-06
