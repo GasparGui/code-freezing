@@ -1,0 +1,7 @@
+---
+glass_breaker_group:
+  - guigaspar
+  - root
+freezing_dates:
+  from: 2025-05-04
+  to: 2025-05-06
